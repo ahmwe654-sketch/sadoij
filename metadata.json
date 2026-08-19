@@ -1,0 +1,7 @@
+{
+  "name": "Minecraft Server Dashboard",
+  "description": "A premium dark glassmorphic web dashboard for Minecraft Java server management with live console, players, mods, scheduler, and real-time monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
